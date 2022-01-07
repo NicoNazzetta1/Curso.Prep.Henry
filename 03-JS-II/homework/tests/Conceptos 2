@@ -1,0 +1,8 @@
+
+For: es un bucle que evalua algo una y otra vez hasta la condicion nos de el valor false
+
+&&, || , ! : se utiliza para comparar dos expresiones y preguntar si alguna de las dos son verdaderas.
+	
+	&&: esto evalua si las dos expresiones que comparamos son true, si es asi el resultado es true, si una de ellas o las dos son false, el resultado es false
+	||: determina si la expresion es true, esta sera true mientras 1 o ambas son true, de lo contrario sera false
+	!: se utiliza para negar la expresion que usemos
