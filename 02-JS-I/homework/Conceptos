@@ -1,0 +1,12 @@
+
+Variables: es una forma de darle el valor de algo para usarlo luego usarla y poder interactuar con ella
+
+Strings: son textos que siempre se definen entre comillas ""
+
+Funciones: agrupan codigo para poder invocar despues 
+	argumento: funciona como una variable dentro de la funcion, se requiere agregarle un valor
+	return: es la forma que utiliza la funcion para devolver el valor que estamos buscando
+
+if: es un condicionante, la utilizamos cuando tenemos una condicion que nos devuelve dos resultados, true o false
+
+Boonean: se utilizan para asignarle una operacion, afirmacion, etc si es true o false
